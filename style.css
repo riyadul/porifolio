@@ -1,0 +1,103 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0px;
+}
+h1 span{
+    color: green;
+}
+.flex-con{
+    display: flex;
+ margin: 5px;
+}
+.komola-banu{
+    width:40%;
+    margin: 50px;
+    padding-left: 2%;
+    
+    }
+    .komola-banu img {
+        width: 100%;
+        padding: 5%;
+    }
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+.top-one{
+    background-image: url(top-banner.png);
+    margin: 0%;
+    background-repeat: no-repeat;
+}
+.link-button{
+    color: white;
+    background-color: rebeccapurple;
+    text-decoration: none;
+    padding: 5px 30px;
+    border-radius: 5px;
+    font-weight: 700px;
+     
+}
+
+.night img {
+    width: 100%;
+    padding: 0%;
+}
+
+.night {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.new-link {
+    color: white;
+    background-color: rebeccapurple;
+    padding: 10px 40px;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.dream-big{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-right: 0%;
+    
+}
+.orange{
+    color: orange;
+}
+.exp-box {
+    box-shadow: 24px 1px 28px grey;
+    margin-bottom: 150px;
+    width: 41%;
+    height: 400px;
+    margin-left: 3%;
+    margin-right: 2%;
+    padding-left: 40px;
+    border-radius: 29px;
+}
+
+.last-part{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#border-one{
+    border-left: 7px solid red;
+   
+}
+   
+
+#border-two{
+    border-left: 7px solid green;
+    
+}
+footer{
+    text-align: center;
+    font-weight: 700;
+}
+    
